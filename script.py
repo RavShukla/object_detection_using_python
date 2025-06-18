@@ -39,7 +39,7 @@ plt.axis('off')  # Hide axes
 plt.show()  # Show the image
 
 # Video / webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0) #change camera view from here
 if not cap.isOpened():
     cap = cv2.VideoCapture(0)
 if not cap.isOpened():
