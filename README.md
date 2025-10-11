@@ -36,3 +36,31 @@ Follow these steps to set up and run the project on your local machine:
 ```bash
 git clone https://github.com/your-username/object-detection-project.git
 cd object-detection-project
+
+
+# 🚀 Object Detection using YOLOv8 and OpenCV
+
+This project demonstrates **real-time object detection** using the **YOLOv8 (You Only Look Once)** model integrated with **OpenCV**.  
+It can detect multiple objects in images or live webcam feeds with high accuracy and speed.
+
+---
+
+## 🧠 Features
+
+- 🎯 High-accuracy object detection using YOLOv8
+- 💻 Real-time detection via webcam or camera feed
+- 🖼️ Support for image input and live video
+- ⚡ Optimized inference speed with Ultralytics YOLO library
+- 🧩 Easy to modify and extend
+
+---
+
+## 📦 Requirements
+
+Make sure you have **Python 3.8+** installed.
+
+Install dependencies using:
+
+```bash
+pip install ultralytics opencv-python matplotlib
+
