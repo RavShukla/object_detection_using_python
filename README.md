@@ -4,6 +4,8 @@ This project performs real-time and image-based **object detection** using OpenC
 
 It detects 80 common objects like people, cars, bottles, etc., in both static images and live webcam feed.
 
+
+
 ---
 
 ## 📸 Demo
