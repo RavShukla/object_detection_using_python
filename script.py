@@ -11,6 +11,9 @@ frozen_model = 'frozen_inference_graph.pb'
 
 
 
+
+
+
 model = cv2.dnn_DetectionModel(frozen_model, config_file)
 
 classLabels = []
