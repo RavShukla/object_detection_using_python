@@ -6,6 +6,8 @@ It detects 80 common objects like people, cars, bottles, etc., in both static im
 
 
 
+
+
 ---
 
 ## 📸 Demo
